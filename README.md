@@ -58,10 +58,10 @@ src="https://img.shields.io/badge/%7C-'?label=Follow%20%40emmanuelchika&labelCol
       <a href="https://www.behance.net/emmanuelchika" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
     </td>
     <td>
-      <a href="https://github.com/FutureAtPivot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+      <a href="https://github.com/emmanuelchika" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     </td>
     <td>
-       <a href="https://www.instagram.com/futureatpivot/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+       <a href="https://www.instagram.com/emmanuelchika/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/emmanuelchika/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -74,6 +74,6 @@ src="https://img.shields.io/badge/%7C-'?label=Follow%20%40emmanuelchika&labelCol
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/FutureAtPivot"><img src="https://github-readme-stats.vercel.app/api?username=futureatpivot&show_icons=true&hide=prs,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="FutureAtPivot's GitHub stats" /></a>
+<a href="https://github.com/emmanuelchika"><img src="https://github-readme-stats.vercel.app/api?username=emmanuelchika&show_icons=true&hide=prs,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="emmanuelchika's GitHub stats" /></a>
 
-<a href="http://www.github.com/futureatpivot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=futureatpivot&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/emmanuelchika"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelchika&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
